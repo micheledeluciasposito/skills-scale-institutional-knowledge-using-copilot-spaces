@@ -20,7 +20,7 @@ OctoAcme follows a five-phase project lifecycle:
 
 - **Customer-first** – Prioritize customer value and usability in every decision.
 - **Iterative delivery** – Ship small, testable increments rather than big-bang releases.
-- **Clear ownership** – Every project has a named Project Manager (PM) and Product Lead who are accountable for outcomes.
+- **Clear ownership** – Every project has a named Project Manager (PM) and Product Manager (PdM) who are accountable for outcomes.
 - **Data-informed decisions** – Measure impact and iterate based on evidence, not assumptions.
 - **Psychological safety** – Encourage open feedback, learning from failure, and continuous improvement.
 
